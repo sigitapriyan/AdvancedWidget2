@@ -1,4 +1,4 @@
-# Advanced Widget 1
+# Advanced Widget 2
 ![SS1](https://github.com/sigitapriyan/SSProjectAndroid/blob/master/aw2.0.jpg)
 ![SS1](https://github.com/sigitapriyan/SSProjectAndroid/blob/master/aw2.1.jpg)
 ###Created by:
