@@ -15,4 +15,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama"
+        android:id="@+id/editTextNama" />
+
+    <Button
+        android:text="Proses"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonProses" />
+
+    <TextView
+        android:text="Hasil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewHasil" />
+
 </LinearLayout>
